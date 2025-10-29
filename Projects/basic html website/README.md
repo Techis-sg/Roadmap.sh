@@ -1,7 +1,8 @@
 # Project-URL : https://roadmap.sh/projects/basic-html-website
+# Project-URL : https://roadmap.sh/projects/portfolio-website
 # Basic HTML Website
 
-This project demonstrates how to **structure a multi-page website using only HTML** — no CSS or styling.  
+This project demonstrates how to **structure a multi-page website using only HTML** — no CSS or styling for first one and style.css for second one.  
 It teaches HTML semantics, layout planning, and SEO fundamentals.
 
 ---
@@ -28,4 +29,5 @@ It teaches HTML semantics, layout planning, and SEO fundamentals.
 ## ⚙️ How to Run
 
 Open `index.html` directly in a browser  
+
 or use a local server for better experience (e.g., Live Server extension in VSCode).
